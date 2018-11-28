@@ -5,10 +5,13 @@ init file for jenweb
 import os
 
 from flask import Flask
+from flaskr.pages import pages
 
 def create_app(test_config=None):
     # create and config application
     app = Flask(__name__, instance_relative_config=True)
+
+    app.register_blueprint(pages)
     app.config.from_mapping(
         SECRET_KEY='dev',
         DATEBASE=os.path.join(app.instance_path, "flaskr.sqlite"),
