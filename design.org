@@ -1,3 +1,14 @@
+* Tasks
+- Create format for picture database
+- put images into database along with metadata
+- create template collection page
+- create template exhibition page
+- create main collection page
+- create main exhibition page
+- create older collections page
+- add social media links to about page / navbar
+- improve navbar (expandable sections)
+- Create CSS
 * Navigation
 ** Navbar
 Title
