@@ -1,0 +1,19 @@
+* Navigation
+** Navbar
+Title
+Social Media Links
+Expandable Links (to section or subsection)
+
+** Main (landing) page
+**** Brief Artist Statement 
+*** Collections 
+Each piece should have - Title, approximate Date, medium, Description, price (or not for sale / in a private collection)
+**** Older Collections (kind of hidden)
+Just a thumbnail of the pieces in a collage (showing off they exist without showing enough detail to see they are not as good)
+*** Exhibited Works
+Karolinas Book
+Any Current exhibitions (Address, Dates Running, Works Shown, links to the works/collection the work is a part of)
+Any Past Exhibitions (move current ones here as they are more then 3 months old) 
+*** About (with Awards and Recognitions)
+Full Artist Statement
+Links to Social Media with explainations
